@@ -2,7 +2,7 @@
 
 // --- MOVEMENT ---
 // Set a starting speed and direction.
-speed = 5;
+speed = 15;
 direction = random_range(225, 315); // Start moving downwards at a random angle.
 
 // This is important to prevent the ball from getting stuck

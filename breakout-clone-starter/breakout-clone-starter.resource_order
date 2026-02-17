@@ -27,10 +27,13 @@
     {"name":"sfx_break","order":2,"path":"sounds/sfx_break/sfx_break.yy",},
     {"name":"Teto_sound_effect","order":3,"path":"sounds/Teto_sound_effect/Teto_sound_effect.yy",},
     {"name":"Fatty","order":5,"path":"sprites/Fatty/Fatty.yy",},
+    {"name":"Screenshot_2026_02_17_at_8_53_07_AM","order":6,"path":"sprites/Screenshot_2026_02_17_at_8_53_07_AM/Screenshot_2026_02_17_at_8_53_07_AM.yy",},
+    {"name":"Screenshot_2026_02_17_at_9_05_04_AM","order":7,"path":"sprites/Screenshot_2026_02_17_at_9_05_04_AM/Screenshot_2026_02_17_at_9_05_04_AM.yy",},
     {"name":"spr_ball","order":1,"path":"sprites/spr_ball/spr_ball.yy",},
     {"name":"spr_brick_1","order":4,"path":"sprites/spr_brick_1/spr_brick_1.yy",},
     {"name":"spr_brick","order":2,"path":"sprites/spr_brick/spr_brick.yy",},
     {"name":"spr_wall","order":3,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"Sprite7","order":16,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"Sprite9","order":17,"path":"sprites/Sprite9/Sprite9.yy",},
   ],
 }

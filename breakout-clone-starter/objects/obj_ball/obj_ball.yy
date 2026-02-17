@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_ball",
-    "path":"sprites/spr_ball/spr_ball.yy",
+    "name":"Screenshot_2026_02_17_at_8_53_07_AM",
+    "path":"sprites/Screenshot_2026_02_17_at_8_53_07_AM/Screenshot_2026_02_17_at_8_53_07_AM.yy",
   },
   "spriteMaskId":null,
   "visible":true,

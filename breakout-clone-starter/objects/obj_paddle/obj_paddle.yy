@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_paddle",
-    "path":"sprites/spr_paddle/spr_paddle.yy",
+    "name":"Screenshot_2026_02_17_at_9_05_04_AM",
+    "path":"sprites/Screenshot_2026_02_17_at_9_05_04_AM/Screenshot_2026_02_17_at_9_05_04_AM.yy",
   },
   "spriteMaskId":null,
   "visible":true,
